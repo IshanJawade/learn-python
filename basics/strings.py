@@ -28,7 +28,8 @@ if "ishan" not in txt:
 # ----------- Slicing Strings ------------
 text = "0123456789"
 
-# includes first index and excluds 2nd indices
+# this works well of count index from 1 not from 0
+# exclude the numbers in the slicing function
 print(text[2:9])     
 
 # from start to the index
