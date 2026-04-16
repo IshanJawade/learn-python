@@ -1,0 +1,98 @@
+dict user{
+	"name" : "num",
+	"status": "sta",
+	
+}
+
+{
+	"Nawaz": 
+		{"Transaction ID": 12456, "Status": "Failed", "$12.54"}, 	
+		{"Transaction ID": 12457, "Status": "Success", "$12.54"} 
+}
+
+
+r'\[a-zA-Z]$'
+
+
+
+text = "Payment for Nawaz is Failed. The amount is $12.54. Transaction number is 12456
+ 
+Payment for Nawaz is Success. The amount is $12.54. Transaction number is 12457"
+
+
+pattern = r'\[a-zA-Z]$'
+
+(a-z)(a|b|c)
+
+
+for pattern in text:
+	if re.findall(pattern) in text:
+		print()
+		
+
+
+
+
+username= nawaz
+status= failed
+amount= 123
+tr_id= 456
+
+dict record{
+	
+	"usrName"{
+
+		"staus",
+		"amount",
+		"tr_id",
+	}
+	
+}
+
+record.get(username)
+
+-----------------------------------------------------
+
+with open("text.txt", "w") as fptr:
+	fptr.write(something\n1234\nsomething\n)
+
+with open("text.txt", "r") as fptr:
+	print(fptr.read())
+
+
+------------------------------------------------------
+
+
+
+
+import sys
+
+print()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
