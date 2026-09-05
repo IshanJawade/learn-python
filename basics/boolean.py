@@ -1,2 +1,6 @@
 print(bool("Hello"))
 print(bool(15))
+print(True)
+print(False)
+print(bool(0))
+print(bool(1))

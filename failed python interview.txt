@@ -10,9 +10,7 @@ dict user{
 		{"Transaction ID": 12457, "Status": "Success", "$12.54"} 
 }
 
-
 r'\[a-zA-Z]$'
-
 
 
 text = "Payment for Nawaz is Failed. The amount is $12.54. Transaction number is 12456
